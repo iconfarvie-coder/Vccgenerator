@@ -1,2 +1,35 @@
 # Farvie
+Hacking Tools
+https://bitaps.com/
+https://chatgpt.com/g/g-p-6a066825e6808191b27cd1f779c91eec-main-loader/c/6a0a2e39-02b4-83ea-a346-fd6f746609a2
+https://slack-gov.com/workspace-signin
+https://slack-gov.com/workspace-signin?redir=%2Fhelp%2Frequests%2Fnew
+https://alphaloader.slack.com/mobile/team-setup/T0B4APZP1SA?entry_point=default_oauth
+https://www.kali.org/tools/gemini-cli/
+https://bugs.kali.org/view_all_bug_page.php?filter=6a0a803fc5421
+https://github.com/iconfarvie-coder/gemini-farvie
+https://geminicli.com/extensions/
+https://github.com/iconfarvie-coder/gemini-farvie
+https://chatgpt.com/g/g-p-6a066825e6808191b27cd1f779c91eec-main-loader/project?tab=sources
+https://chatgpt.com/checkout/openai_llc/cs_live_a14DqWP5QL4lO2WI16MEcn9uiPT8yTEJjo1zsbXz5nkr56Effc7mn0dn2Q
+https://chatgpt.com/g/g-k3IqoCe1l-code/c/6a0a9738-a6c8-83ea-a2fa-9c66ea844bbf
+https://chatgpt.com/c/6a0aa0d0-9728-83ea-abc7-7eb1a222493d
+https://www.vccgenerator.org/credit-card-validator/
+https://www.reddit.com/user/vccgenerator/?feedViewType=compactView
+https://www.vccgenerator.org/bin-search-result/
+https://github.com/iconfarvie-coder/Alphavccgenerator/import
+https://bugs.kali.org/view.php?id=9398
+https://github.com/iconfarvie-coder/Vccgenerator
+https://github.com/pulls/inbox
+https://github.blog/changelog/2026-04-23-global-pull-requests-dashboard-moves-to-opt-out-public-preview/
+https://github.com/
+https://vercel.com/alphaloader/blue-wallet/speed-insights
+https://bitcoin-zeta-roan.vercel.app/
 https://www.alpha.cloud/
+https://vercel.com/alphaloader/~/usage
+https://github.com/nodejs/admin/issues/1058
+https://github.com/nodejs/node/pull/63329
+https://github.com/iconfarvie-coder/Alpha-LLC/upload
+https://tryhackme.com/room/jrsecanalystintrouxo
+https://checkout.stripe.com/c/pay/cs_live_b1p05qthQ0pWicn6X7k2y1yt0sQTFbja6KcF2hVMlvfcfDhqhDclDogZT9#fidnandhYHdWcXxpYCc%2FJ2FgY2RwaXEnKSd2cGd2ZndsdXFsamtQa2x0cGBrYHZ2QGtkZ2lgYSc%2FcXdwYCknYnBkZmRoamlgU2R3bGRrcSc%2FJ2Zqa3F3amknKSdkdWxOYHwnPyd1blppbHNgWjA0PTROYFZGd2YxZFZGcj0ySFEyXTMwaVxqNDdhTVdGRGM0bkJxNGFoSWJtSHN%2FfWNJRjBfUFdSbzZtf2FgXHwyMGR1PVA9bTFhMjVNdWJCPT0xXTZVfXdENTU8PUdIRH1SNicpJ2N3amhWYHdzYHcnP3F3cGApJ2dkZm5id2pwa2FGamlqdyc%2FJyY2MTZmMTcnKSdpZHxqcHFRfHVgJz8naHBpcWxabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
+https://tryhackme.com/hacktivities/search?kind=threat-hunting&searchText=
